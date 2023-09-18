@@ -1,0 +1,17 @@
+.btn-holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+.btn-holder .btn {
+  color: white;
+  background: black;
+  border: none;
+}
+.row .card {
+  height: 48rem;
+  margin: 1rem;
+}
